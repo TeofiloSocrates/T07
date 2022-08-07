@@ -14,7 +14,7 @@
 * VENTURA JAUJA JAIME - 141599
 
 ## Docente:
-* Quintanilla Portugal Roxana Lisette
+* Vittali Quispe Surco
 
 ## Guia de Ejecucion
 * Crear la base de datos
