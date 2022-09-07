@@ -23,7 +23,7 @@ include("conexion.php");
   
   <!-- Item 3 -->
   <input type="radio" name="slideItem" id="slide-item-3" class="slide-toggle" checked/>
-  <label for="slide-item-3"><p class="icon">☒</p><a href="AlumnosNN.php"><span>Alumnos No Matriculados</span></a></label>
+  <label for="slide-item-3"><p class="icon">☒</p><a href="AlumnosNoExistentes.php"><span>Alumnos No Matriculados</span></a></label>
   
   <!-- Item 4 -->
   <input type="radio" name="slideItem" id="slide-item-4" class="slide-toggle"/>
@@ -37,7 +37,7 @@ include("conexion.php");
   </div>
 </nav>
 <div class="boton">
-    <button name="button" class="btn"><a href="cacsv.php">Generar CSV</a></button>
+    <button name="button" class="btn"><a href="Formatocsv.php">Generar CSV</a></button>
 </div>
 <br>
 <hr class="linea">

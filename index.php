@@ -1,5 +1,5 @@
 <?php
-include("cabecera.php");
+include("../Librerias/cabecera.php");
 ?>
 <div class="boton">
     <button name="button" class="btn"><a href="alumnoscsv.php">Generar CSV</a></button>
